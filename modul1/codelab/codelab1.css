@@ -1,0 +1,25 @@
+table {
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+}
+
+th {
+    background-color: yellow;
+}
+
+.senin {
+    background-color: cyan;
+}
+
+.selasa {
+    background-color: black;
+    color: white;
+}
+
+.rabu {
+    background-color: pink;
+}
